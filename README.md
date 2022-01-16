@@ -1,6 +1,6 @@
 # xSystems Tasmota
 
-> Tasmota builds and build configuration for certain devices.
+> [Tasmota][tasmota] builds and build configuration for certain devices.
 
 ## Devices
 
@@ -28,5 +28,7 @@ results in build output like this:
 Tasmota/build_output/firmware/tasmota32-v10.1.0-ewelink-zb_gw03_v1.2.bin
 ```
 
+
+[tasmota]: https://tasmota.github.io/docs/ "Tasmota"
 [ewelink_zb-gw03-v1.2]: https://templates.blakadder.com/ewelink_ZB-GW03.html "eWelink ZB-GW03-V1.2"
 [releases]: https://github.com/xsystems/xsystems-tasmota/releases "Releases"
